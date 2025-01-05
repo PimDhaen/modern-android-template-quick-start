@@ -42,7 +42,8 @@ Based on the [Official Android Documentation](https://developer.android.com/topi
 - **Jetpack Compose** - The Official Android Declarative UI-Kit.
 - **Material 3** - The latest version of Material Design.
 - **Firebase Crashlytics** _(Planned)_ - For crash reporting.
-- **In-App Updates** - code in ui/utils/AppUpdater.kt 
+- **In-App Updates** - code in ui/utils/AppUpdater.kt
+- **In-App Reviews** - Google Play In-App Review API for collecting user rating and comment
 - **KtLint** - For code quality.
 - [**Coil**](https://coil-kt.github.io/coil/) - An image loading library for Android backed by Kotlin Coroutines.
 - [**Compose Shimmer**](https://github.com/valentinilk/compose-shimmer) - A shimmer loading effect for composables

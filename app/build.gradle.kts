@@ -127,6 +127,10 @@ dependencies {
     // So, make sure you also include that repository in your project's build.gradle file.
     implementation(libs.app.update)
 
+    // ==================== In-App Reviews ====================
+    implementation(libs.review)
+    implementation(libs.review.ktx)
+
     // For Kotlin users also import the Kotlin extensions library for Play In-App Update:
     implementation(libs.app.update.ktx)
 
