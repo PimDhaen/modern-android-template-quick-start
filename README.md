@@ -7,7 +7,7 @@
 2. Rename everything prefixed with *Rename* ([How to rename a package in Android Studio](https://stackoverflow.com/questions/16804093/rename-package-in-android-studio))
 
 ```bash
-git clone https://github.com/pim-developer/modern-android-template-quick-start.git
+git clone https://github.com/pimdhaen/modern-android-template-quick-start.git
 ```
 
 ## 👨‍💼 Architecture 
@@ -36,7 +36,7 @@ Based on the [Official Android Documentation](https://developer.android.com/topi
 ## ⚒️ Included Dependencies 
 
 - [**MongoDB**](https://www.mongodb.com/docs/atlas/device-sdks/sdk/kotlin/) - NoSQL Database MongoDB, note there is a nice free tier for a MongoDB [BAAS](https://www.mongodb.com/products/platform/atlas-database). Easily replace with [Room](https://developer.android.com/jetpack/androidx/releases/room) if you prefer.
-- [**Hilt**](https://developer.android.com/training/dependency-injection/hilt-android) -  Hilt Dependency Injection for a future-proof maintainable codebase.
+- [**Hilt**](https://developer.android.com/training/dependency-injection/hilt-android) -  Hilt Dependency Injection for a future-proof maintainable codebase. (I recommend [Koin](https://insert-koin.io/) for KMP)
 - **[Compose Navigation](https://developer.android.com/develop/ui/compose/navigation)** - Up-to-date Official Jetpack Compose Type-Safe Navigation.
 - **Ktor Android** - For networking.
 - **Jetpack Compose** - The Official Android Declarative UI-Kit.
